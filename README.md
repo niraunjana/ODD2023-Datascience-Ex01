@@ -97,4 +97,8 @@ for x in df.index:
 df
 ```
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/99761dfe-25ae-4aa5-8dbb-8ef4e069da1a)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/121b535a-92ae-4c74-91fa-86b35e12ef14)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/294a2aa2-653d-49a0-b340-8bbb68ec1000)
+
+
 
