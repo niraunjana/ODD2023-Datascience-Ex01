@@ -100,6 +100,8 @@ df
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/121b535a-92ae-4c74-91fa-86b35e12ef14)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/dc0559e2-709d-42cf-816b-a6f2f6822d93)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/149d840d-aada-4d7c-b427-45804e43548c)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/6b3db76f-3113-4d45-bbe8-7a06d783f423)
+
 
 
 
