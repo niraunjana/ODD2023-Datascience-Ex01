@@ -98,7 +98,10 @@ df
 ```
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/99761dfe-25ae-4aa5-8dbb-8ef4e069da1a)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/121b535a-92ae-4c74-91fa-86b35e12ef14)
-![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/294a2aa2-653d-49a0-b340-8bbb68ec1000)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/dc0559e2-709d-42cf-816b-a6f2f6822d93)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/f8894d11-2ddd-44c6-b3b0-f36792539872)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/149d840d-aada-4d7c-b427-45804e43548c)
+
 
 
 
