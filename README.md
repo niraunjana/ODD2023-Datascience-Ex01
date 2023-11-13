@@ -119,6 +119,10 @@ df
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/34f01257-7b33-4df9-b30f-3302bc4b40b9)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/1a99ba82-6ad9-4b9b-a1b0-8b9ca4f87820)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/bd1c5fe0-0e8d-46bb-9e7d-6f72e4c081df)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/eedc22c9-be0d-4c4c-8e06-1742b08656db)
+
+### RESULT:
+Thus data cleaning is performed on the given dataset.
 
 
 
