@@ -112,6 +112,12 @@ df
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/c61d70c8-5f68-4eb8-afe5-54e7a54b78f7)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/8a51ac93-0287-4666-964a-c7c3e580d786)
 ![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/2d22f549-7965-4846-b316-1c1f9ae1dc65)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/3ee4fe33-9e75-4458-8d1b-58733c9213ef)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/a0c0bfe5-9e08-4c68-941c-e3aa16b9ca0a)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/1727400d-784c-4278-bd67-0fd73f6e127a)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/e63e1ca8-6e9c-44f4-9c48-09677f293c8e)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/34f01257-7b33-4df9-b30f-3302bc4b40b9)
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex01/assets/119395610/1a99ba82-6ad9-4b9b-a1b0-8b9ca4f87820)
 
 
 
